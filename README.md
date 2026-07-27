@@ -1,7 +1,8 @@
 # SaaS-Copywriting-Playbook
-A growing collection of SaaS messaging frameworks, website audits, and marketing psychology insights for AI &amp; SaaS founders.
-
-This repository is a living playbook where I document frameworks, analyze leading SaaS products, and study the principles behind clear, persuasive product messaging.
+I started this repository because I noticed something while studying great software companies.
+Many products don't fail because they're technically weak. They fail because people don't immediately understand why they matter.
+This repository is where I document frameworks, rewrite headlines, audit SaaS websites, and share what I learn along the way.
+I'm building this publicly, so expect it to evolve every week.
 
 ---
 
@@ -52,9 +53,10 @@ Its purpose isn't to describe the product—it's to convince the right person to
 
 ## Principle #1 — Lead With the Outcome
 
-People don't buy software.
-
-They buy the result the software creates.
+While reviewing many SaaS homepages, I noticed the same pattern.
+Most companies describe what their product does.
+Very few explain what changes for the customer after using it.
+That's why I believe every hero headline should start with the outcome—not the technology.
 
 ### ❌ Weak
 
@@ -63,6 +65,7 @@ AI-powered automation.
 ### ✅ Better
 
 Save 5 hours of repetitive work every week.
+
 
 ---
 
