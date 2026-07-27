@@ -1,4 +1,4 @@
-# SaaS-Messaging-Playbook
+# SaaS-Copywriting-Playbook
 A growing collection of SaaS messaging frameworks, website audits, and marketing psychology insights for AI &amp; SaaS founders.
 
 This repository is a living playbook where I document frameworks, analyze leading SaaS products, and study the principles behind clear, persuasive product messaging.
