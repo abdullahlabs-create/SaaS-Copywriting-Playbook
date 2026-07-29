@@ -96,3 +96,50 @@ Future updates will include:
 This playbook is continuously updated as I study leading AI and SaaS companies, marketing psychology, and high-converting product messaging.
 
 Every framework is expanded over time with new principles, real-world examples, and practical insights.
+
+## Principle #2 — Be Specific or Be Ignored
+
+As I studied many SaaS homepages, I noticed another pattern.
+
+The strongest headlines don't try to impress people.
+
+They help people picture a specific outcome.
+
+Compare these two headlines.
+
+### ❌ Weak
+
+Work faster with AI.
+
+### ✅ Better
+
+Generate meeting notes in under 30 seconds.
+
+The first headline is broad.
+
+The second gives the reader something they can imagine.
+
+Specificity reduces uncertainty.
+
+When people can clearly picture the outcome, they're more likely to keep reading.
+
+---
+
+## Questions to Ask Yourself
+
+Before publishing a hero headline, ask:
+
+- Is my promise specific?
+- Can the customer picture the outcome?
+- Would this headline still make sense if I removed buzzwords like "AI-powered" or "next-generation"?
+- Does it sound different from my competitors?
+
+If the answer is "no," make it more specific.
+
+---
+
+## Key Takeaway
+
+People don't trust vague promises.
+
+They trust specific outcomes they can easily understand.
