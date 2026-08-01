@@ -199,7 +199,7 @@ If your headline is doing too much, simplify it.
 
 ---
 
-## Key Takeaway
+## Key Concept
 
 **Don't make your hero headline explain everything.**
 
