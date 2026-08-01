@@ -143,3 +143,66 @@ If the answer is "no," make it more specific.
 People don't trust vague promises.
 
 They trust specific outcomes they can easily understand.
+
+# Hero Headline Framework
+
+## Principle #3 — Make One Promise, Not Five
+
+As I studied SaaS homepages, I noticed something easy to miss.
+
+Some headlines try to sell the entire product in one sentence.
+
+They mention AI, automation, analytics, speed, security, collaboration—and end up making nothing feel important.
+
+### ❌ Weak
+
+AI-powered platform for automation, analytics, collaboration, and smarter workflows.
+
+There's too much competing for attention.
+
+### ✅ Better
+
+Automate the repetitive work your team shouldn't be doing.
+
+One headline.
+
+One primary outcome.
+
+One reason to keep reading.
+
+---
+
+## Why It Works
+
+A hero section has limited attention to work with.
+
+If the headline makes five promises, the visitor has to figure out which one matters.
+
+A focused headline makes that decision easier.
+
+Your headline doesn't need to explain everything your product does.
+
+It needs to make the **most important promise** clear.
+
+The rest can be explained through the subheadline, features, proof, and the sections below.
+
+---
+
+## The One-Promise Test
+
+Before publishing your headline, ask:
+
+- What is the single most important outcome?
+- Can I remove anything without weakening the promise?
+- Is the headline trying to explain the entire product?
+- Would my ideal customer immediately understand what's in it for them?
+
+If your headline is doing too much, simplify it.
+
+---
+
+## Key Takeaway
+
+**Don't make your hero headline explain everything.**
+
+Make it communicate **one compelling reason to care.**
