@@ -144,8 +144,6 @@ People don't trust vague promises.
 
 They trust specific outcomes they can easily understand.
 
-# Hero Headline Framework
-
 ## Principle #3 — Make One Promise, Not Five
 
 As I studied SaaS homepages, I noticed something easy to miss.
